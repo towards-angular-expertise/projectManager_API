@@ -1,0 +1,14 @@
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/bin/Debug/netcoreapp2.2/Backend.deps.json
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/bin/Debug/netcoreapp2.2/Backend.runtimeconfig.json
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/bin/Debug/netcoreapp2.2/Backend.runtimeconfig.dev.json
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/bin/Debug/netcoreapp2.2/Backend.dll
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/bin/Debug/netcoreapp2.2/Backend.pdb
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.csprojAssemblyReference.cache
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.csproj.CoreCompileInputs.cache
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.RazorAssemblyInfo.cache
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.RazorAssemblyInfo.cs
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.AssemblyInfoInputs.cache
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.AssemblyInfo.cs
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.RazorTargetAssemblyInfo.cache
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.dll
+/home/ertan/Desktop/dotnetCoreProjects/projectManager/Backend/obj/Debug/netcoreapp2.2/Backend.pdb
